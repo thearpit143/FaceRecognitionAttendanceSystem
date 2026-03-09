@@ -1,13 +1,13 @@
-# 🎯 Face Recognition Attendance System
+# Face Recognition Attendance System
 
 This is a smart AI-based attendance system using face recognition, built with:
 
-- Python 🐍 (OpenCV, Tkinter, MySQL)
+- Python (OpenCV, Tkinter, MySQL)
 - PIL (for image handling)
 - `face_recognition` library
 - `haarcascade_frontalface_default.xml` for face detection
 
-## ⚙️ Features
+## Features
 
 - Add, update, delete student records
 - Capture & train face images
@@ -16,7 +16,7 @@ This is a smart AI-based attendance system using face recognition, built with:
 - GUI powered by Tkinter
 - MySQL backend database
 
-## 📁 Project Structure
+## Project Structure
 
 FaceRecognitionAttendanceSystem/
 ├── main.py
@@ -33,7 +33,7 @@ FaceRecognitionAttendanceSystem/
 └── README.md
 
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repo or download ZIP
 2. Install required libraries:
@@ -41,13 +41,10 @@ FaceRecognitionAttendanceSystem/
 3. Setup your MySQL DB (named `face_recognizer`)
 4. Run `main.py` to launch the app
 
-## 🙋‍♂️ Authors
-
-Made with ❤️ by:
+## Authors
 
 - [Arpit Chauhan]
   [GitHub](https://github.com/thearpit143)  
-  [LinkedIn](https://www.linkedin.com/in/thearpitchauhan)
 
 - [Sakshi Bisht]
   [GitHub](https://github.com/sakshiibishtt)  
